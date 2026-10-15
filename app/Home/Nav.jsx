@@ -55,7 +55,7 @@ const Navbar = () => {
       icon: <Settings className="w-5 h-5" />,
     },
     {
-      name: "About Developer",
+      name: "About me",
       href: "/Home/AboutDeveloper",
       icon: <Contact className="w-5 h-5" />,
     },

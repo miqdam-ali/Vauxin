@@ -422,7 +422,7 @@ const Page = () => {
 
   return (
     <main className="min-h-screen p-3 bg-slate-100 flex justify-center items-center flex-col ">
-      <section className="w-full md:w-200 flex justify-center items-center mt-10 ">
+      <section className="w-full md:w-200 flex justify-center items-center mt-20 ">
         <div className="bg-white rounded-2xl w-full  p-4 shadow-sm border border-slate-100">
           <div className="relative w-full flex flex-row items-center">
             {/* Top Right Edit Name Button */}
