@@ -667,7 +667,7 @@ const Page = () => {
             className="fixed inset-0 bg-black/20 backdrop-blur-lg"
             onClick={() => setisOpen(false)}
           />
-          <div className="relative z-99 bg-white w-full h-fit  rounded-2xl p-5">
+          <div className="relative z-99 bg-white w-full h-fit  rounded-2xl p-5 max-w-md">
             <h1 className="flex justify-center text-black font-mono font-bold">
               Manage Your Profile
             </h1>
@@ -982,7 +982,7 @@ const Page = () => {
             className="inset-0 fixed bg-black/30 backdrop-blur-lg"
             onClick={() => setNameBox(false)}
           />
-          <div className="z-99 relative bg-white w-full h-fit rounded-lg p-5">
+          <div className="z-99 relative bg-white w-full h-fit rounded-lg p-5 max-w-md">
             <button
               onClick={() => setNameBox(false)}
               className="absolute right-2 top-2"
