@@ -66,7 +66,7 @@ const Navbar = () => {
     <main>
       <nav className=" fixed w-full bg-white/30 p-3 shadow-sm backdrop-blur-md">
         <div className="flex justify-between items-center mx-3">
-          <span className="font-bold  text-black font-mono tracking-widest text-xl">Vaunix</span>
+          <span className="font-bold  text-black font-mono tracking-widest text-xl">Vauxin</span>
 
           {/* Desktop Navbar View */}
           <div className="hidden md:flex space-x-2">
