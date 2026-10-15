@@ -9,7 +9,7 @@ export default function LandingPage() {
         <section className="  flex justify-between items-center px-4 py-2">
           <div>
             <h1 className="font-mono tracking-widest font-black text-slate-900 text-lg uppercase">
-              Todos App
+              Vauxin
             </h1>
           </div>
           <div className="space-x-4 font-mono text-sm font-bold flex items-center">
