@@ -4,7 +4,7 @@
 
 ## 🚀 Key Features
 
-* **Authentication:** Secure user registration, multi-factor login options, and persistent sessions.
+* **Authentication:** Secure user registration, login / signup and deletion of account.
 * **Profiles:** Dynamic user profile setups allowing personalized settings, and avatars
 * **Workflows:** Smooth, ultra-fast CRUD operations for real-time task creation, updates and completion tracking.
 * **Performance:** Fast page transitions and optimal server-side rendering powered by Next.js.
