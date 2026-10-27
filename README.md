@@ -13,14 +13,14 @@
 ## 🛠️ Architecture & Tech Stack
 
 * **Framework:** Next.js (App Router) / React
-* **Authentication:** NextAuth.js / Supbase
-* **Database & ORM:** Supbase / Supabase Postgree SQL
+* **Authentication:** NextAuth.js / Supabase
+* **Database & ORM:** Supabase / Supabase Postgree SQL
 * **Styling:** Tailwind CSS  for polished, minimalist components
 * **Deployment:** Optimized for Vercel
 
 ## 📦 Getting Started
 
-### Prerequisites
+### Surity
 
 Ensure you have the following installed on your system:
 * Node.js (v18.x or higher)
